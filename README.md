@@ -7,6 +7,8 @@ An end-to-end analysis project that identifies unusual kitchen consumption patte
 ```
 Excel/CSV files → Python ETL → MySQL staging tables → Statistical analysis → Power BI dashboard
 ```
+<img width="1336" height="742" alt="image" src="https://github.com/user-attachments/assets/88c83a0c-d9e8-417f-ab59-06331d55342b" />
+
 <img width="1277" height="748" alt="image" src="https://github.com/user-attachments/assets/13550e11-6b82-4620-b13b-98533e263ab7" />
 <img width="1282" height="747" alt="image" src="https://github.com/user-attachments/assets/67880393-afe4-499d-bbff-dcd816dec4a5" />
 
